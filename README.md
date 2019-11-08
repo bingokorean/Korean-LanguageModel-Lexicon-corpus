@@ -1,7 +1,3 @@
-# Korean-Language-Model-Lexicon-corpus
-
----
-
 ## LANGUAGE MODEL
 
 ### BERT
