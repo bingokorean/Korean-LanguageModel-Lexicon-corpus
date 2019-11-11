@@ -24,5 +24,7 @@
 [https://github.com/naver/nlp-challenge/blob/master/missions/ner/data/train/train_data](https://github.com/naver/nlp-challenge/blob/master/missions/ner/data/train/train_data)
 - **SRL**
 [https://github.com/naver/nlp-challenge/blob/master/missions/srl/data/train/train_data](https://github.com/naver/nlp-challenge/blob/master/missions/srl/data/train/train_data)
+- **의도파악**
+[https://github.com/warnikchow/3i4k](https://github.com/warnikchow/3i4k)
 
 수정 예정
