@@ -1,7 +1,8 @@
 ## LANGUAGE MODEL
 
 ### BERT
-
+- **형태소**
+[http://aiopen.etri.re.kr/service_dataset.php](http://aiopen.etri.re.kr/service_dataset.php)
 - **BPE**
 [https://github.com/SKTBrain/KoBERT](https://github.com/SKTBrain/KoBERT)[https://github.com/google-research/bert/blob/master/multilingual.md](https://github.com/google-research/bert/blob/master/multilingual.md)[https://github.com/yeontaek/BERT-Korean-Model](https://github.com/yeontaek/BERT-Korean-Model)
 - **ALBERT**
